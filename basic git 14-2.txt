@@ -1,0 +1,31 @@
+14/2/23
+what is git(2005) etc
+->to keep track of constant change of website of ai tool or files etc
+->git is a version control system 
+-> advantages -> who introduces issue when  
+              ->easily recover files
+              ->roll back to prev working state
+HISTORY
+local VCS --->was available long time ago but if you lost harddisk youre sure to loose all your files
+centralized VCS ---> if server itself damaged then cant roll back so,
+distributed VCS----> similar to centralized VCS but history also full backup with both user and on the server
+EXAMPLE : GIT
+source code only pull make sure not all data only changes save hence saves a lot of memory 
+LINUS TORWALTZ CREATED LINUX.......
+LINUX NEEDED A VCS CZ TOUGH LOCALLY TO SHARE SOURCECODES
+GITHUB JUST HOSTS GIT REPOSITARY
+captures snapshots not differences
+almost every operation is local but then you can push whenever you want to remote operation or repo 
+git has 
+
+
+
+
+
+to check if someone hacked your file or not SHA CHECKSUM SHOULD NOT BE CHANGED IN BETWEEN DOWNLAODED FILE AND YOUR FILE TO MAKE SURE NO ONE INTERUPTED therefore GIT HUB MAKES SURE THIS INTERNALLY
+GIT ONLY GROWS MOSTLY 
+
+3 stage architecture 
+working directory , staging area, git directory(repo)
+
+GIT BASH IS A TERMINAL 

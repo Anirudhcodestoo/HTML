@@ -1,0 +1,25 @@
+commands-- cd --> change directory command(to get into one file or go to directory of that folder)
+##pwd(present working directory) (and) ls(list content) will list down location and content of our cutrrent place of working
+
+you can use vs studio also
+-git status(shows if changes staged for commit or not staged for commit or nothing to commit)
+-git init to make folder a repo makes it a (master)
+-git add --a (stage all) (or) || git add first.txt (stage 		 individual files)
+snapshots taken once committed
+git commit -m "comments heree"
+
+$ git log 
+commit bca405bb54d92070ebba2de64a2938ff952c4295 (HEAD -> master)   ->> hash creasted
+Author: ANIRUDH <anirudhcodestoo@gmail.com>
+Date:   Thu Feb 15 21:32:06 2024 +0530
+// comment which was added while comiiting 
+ 
+make changes 
+then do git status  astage some files individually by names dont do other then check.
+
+
+git repo -> .git extension 
+
+rm -rf .git
+
+"q" to exit log of your git terminal 
