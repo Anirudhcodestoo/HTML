@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE> THIS IS MY DAY 2 KEY NOTES </TITLE>
+ </HEAD>
+<BODY>
+<H1>key notes day 2</H1>
+<P>->empty elements dont have end tag. <!-- THIS IS A BASIC COMMENT TO TRY OUT IF IT IS SEEN OR NOT -->
+->elements just means open tag content and closing tag.</P>
+</body>
+</HTML>
