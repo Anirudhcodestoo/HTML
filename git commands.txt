@@ -23,3 +23,6 @@ git repo -> .git extension
 rm -rf .git
 
 "q" to exit log of your git terminal 
+
+git remote add origin + your ssh link 
+git push  -u origin master 
