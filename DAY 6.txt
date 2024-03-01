@@ -1,0 +1,10 @@
+<doCTypE hTMl>
+<HTMl>
+<head>
+<title> IDK </title>
+</head>
+<body>
+<H1>lets see the </H1>
+<H3> difference </H3>
+</body>
+</html>
