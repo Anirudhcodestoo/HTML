@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title> DAY 6 </TITLE>
+</head>
+<body>
+<h1 title="NEW ONE I LEARNT"> key notes</h1>
+<img src= "" width = "900" height= "600" alt = "404!!" > 
+<p style ="color:pink;" </p>
+
+
+
+<!-- tooltip tag very imp 	-->
